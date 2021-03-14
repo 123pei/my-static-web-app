@@ -8,13 +8,6 @@
       </p>
       <br />
       <h2 class="title">Resources</h2>
-      <ul>
-        <li>
-          <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
-            Code in GitHub
-          </a>
-        </li>
-      </ul>
     </div>
   </div>
 </template>
