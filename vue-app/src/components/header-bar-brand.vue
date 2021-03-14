@@ -16,7 +16,7 @@ export default {
     </a>
     <router-link to="/" class="navbar-item nav-home">
       <span class="brand-first">SEARCH</span>
-      <span class="brand-second">AGES</span>
+      <span class="brand-second">AGE</span>
       <span class="brand-third">LIST</span>
     </router-link>
   </div>
