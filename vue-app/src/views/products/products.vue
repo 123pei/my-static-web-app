@@ -8,7 +8,7 @@ export default {
   data() {
     return {
       routePath: '/products',
-      title: 'People Age List',
+      title: 'People Age Lists',
     };
   },
   components: {
